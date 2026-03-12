@@ -88,6 +88,23 @@ Based on the findings:
    Returned orders had higher average value, suggesting impulse purchases.
 
 ---
+## Data Source
+
+The dataset used in this project was sourced from **Kaggle** and contains
+fashion e-commerce order data structured similarly to large platforms
+like Myntra or Amazon.
+
+The dataset includes:
+
+- 7,000 fashion orders
+- Order date, category, order status
+- delivery type
+- order amount
+- city and size information
+
+For the purpose of this analysis, the dataset is used to simulate
+**return behaviour analysis in a fashion e-commerce platform.**
+
 
 ## Author
 
