@@ -94,7 +94,7 @@ Based on the findings:
 **Ranjani Swaminathan**
 
 LinkedIn  
-https://linkedin.com/in/ranjani-swaminathan  
+www.linkedin.com/in/ranjani-swaminathan-893461240
 
 Portfolio  
 (your Framer link here)
