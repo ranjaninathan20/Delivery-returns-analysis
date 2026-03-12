@@ -1,5 +1,20 @@
 # Delivery & Returns Analysis - Myntra Fashion Orders
 
+## Project Snapshot
+
+**Goal**  
+Analyse return behaviour in fashion e-commerce orders to understand whether delivery speed influences product returns.
+
+**Dataset**  
+7,000 fashion e-commerce orders (Kaggle dataset representing an online fashion platform).
+
+**Tools**  
+Excel · MySQL · Power BI
+
+**Key Insight**  
+Fast delivery showed near-zero returns compared to standard delivery (~5% return rate), suggesting delivery speed may reduce return likelihood.
+
+
 ## Project Overview
 
 This project analyses **7,000 Myntra fashion orders** to understand 
